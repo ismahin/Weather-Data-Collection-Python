@@ -6,6 +6,7 @@ This Python project utilizes the WeatherAPI website's API key to collect real-ti
 1. Seamless integration with the WeatherAPI using Python.
 2. Easy customization for collecting data for any city globally.
 3. Ideal for weather-related applications, data analysis, and more.
+
 **Getting Started:**
 1. Obtain your WeatherAPI key from WeatherAPI website.
 2. Clone this repository to your local machine.
